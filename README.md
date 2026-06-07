@@ -4,7 +4,7 @@ A personal portfolio website showcasing data analyst projects.
 
 ## Project Structure
 - `plan/`: Contains project planning documents.
-- `portfolio/`: Contains the actual portfolio website source code.
+- `docs/`: Contains the actual portfolio website source code.
 
 ## Features
 - Modern dark mode aesthetic.
